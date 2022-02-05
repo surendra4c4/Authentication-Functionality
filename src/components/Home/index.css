@@ -1,0 +1,6 @@
+/* Write your CSS code here */
+.home-class {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
